@@ -1,0 +1,12 @@
+.pelicula-resultado {
+    background-color: #E3F2F7;
+    border: 1px solid #276CB2;
+}
+
+.titulo-resultado {
+    color: #66332F;
+}
+
+.resultado {
+    font-weight: bold;
+}
